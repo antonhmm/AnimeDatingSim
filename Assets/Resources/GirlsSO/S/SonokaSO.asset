@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e7fcab0f9b38f4aa4322ecf33a93a7, type: 3}
+  m_Name: SonokaSO
+  m_EditorClassIdentifier: 
+  _girlRank: 4
+  _girlPrice: 0
+  _girlIcon: {fileID: 21300000, guid: ad123bde6b48b234688edf5597716745, type: 3}
+  _girlName: "\u0421\u043E\u043D\u043E\u043A\u0430"
+  _girlEngName: Sonoka
+  _girlDescription: "\u0425\u043E\u0447\u0443 \u0432 \u0442\u0435\u043F\u043B\u043E
+    :'("
+  _girlAge: 23
+  _girlHeight: 166
+  _girlHairColor: 9
+  _girlEyeColor: 6
+  _girlZodiacSign: 7

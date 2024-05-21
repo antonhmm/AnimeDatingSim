@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e7fcab0f9b38f4aa4322ecf33a93a7, type: 3}
+  m_Name: OsodeSO
+  m_EditorClassIdentifier: 
+  _girlRank: 0
+  _girlPrice: 0
+  _girlIcon: {fileID: 21300000, guid: 338d54d7c9f6f594c972b59ef5497b7b, type: 3}
+  _girlName: "\u041E\u0441\u043E\u0434\u0435"
+  _girlEngName: Osode
+  _girlDescription: "\u041C\u043E\u0442\u043E\u0446\u0438\u043A\u043B\u0438\u0441\u0442\u043A\u0430,
+    \u043E\u0431\u043E\u0436\u0430\u044E \u0441\u043A\u043E\u0440\u043E\u0441\u0442\u044C
+    \u0438 \u043F\u0440\u0438\u043A\u043B\u044E\u0447\u0435\u043D\u0438\u044F!"
+  _girlAge: 25
+  _girlHeight: 165
+  _girlPets: 0
+  _girlHairColor: 2
+  _girlEyeColor: 5
+  _girlHairLength: 0
+  _girlZodiacSign: 0

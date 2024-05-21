@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e7fcab0f9b38f4aa4322ecf33a93a7, type: 3}
+  m_Name: EtsuSO
+  m_EditorClassIdentifier: 
+  _girlRank: 2
+  _girlPrice: 0
+  _girlIcon: {fileID: 21300000, guid: 30128ecf84cecd344b52a9167a029125, type: 3}
+  _girlName: "\u042D\u0442\u0441\u0443"
+  _girlEngName: Etsu
+  _girlDescription: "\u0421\u043A\u0440\u043E\u043C\u043D\u0430\u044F \u0438 \u0432\u0435\u0440\u043D\u0430\u044F.
+    \u0425\u043E\u0447\u0443 \u0432\u0441\u0442\u0440\u0435\u0442\u0438\u0442\u044C
+    \u043B\u044E\u0431\u043E\u0432\u044C..."
+  _girlAge: 25
+  _girlHeight: 168
+  _girlPets: 0
+  _girlHairColor: 5
+  _girlEyeColor: 1
+  _girlHairLength: 0
+  _girlZodiacSign: 0

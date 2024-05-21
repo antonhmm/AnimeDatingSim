@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e7fcab0f9b38f4aa4322ecf33a93a7, type: 3}
+  m_Name: PowerSO
+  m_EditorClassIdentifier: 
+  _girlRank: 4
+  _girlPrice: 0
+  _girlIcon: {fileID: 21300000, guid: 2e4b4fb0ef90e6243828c124fd9f6ab4, type: 3}
+  _girlName: "\u041F\u0430\u0443\u044D\u0440"
+  _girlEngName: Power
+  _girlDescription: "\u0425\u043E\u0447\u0435\u0448\u044C \u043F\u043E\u0434\u0440\u0430\u0442\u044C\u0441\u044F?
+    :P"
+  _girlAge: 18
+  _girlHeight: 170
+  _girlHairColor: 9
+  _girlEyeColor: 0
+  _girlZodiacSign: 10

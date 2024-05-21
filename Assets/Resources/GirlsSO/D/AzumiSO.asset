@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e7fcab0f9b38f4aa4322ecf33a93a7, type: 3}
+  m_Name: AzumiSO
+  m_EditorClassIdentifier: 
+  _girlRank: 0
+  _girlPrice: 0
+  _girlIcon: {fileID: 21300000, guid: e9f8d03c41d85b04c8014e4b221ed90a, type: 3}
+  _girlName: "\u0410\u0437\u0443\u043C\u0438"
+  _girlEngName: Azumi
+  _girlDescription: "\u0420\u0430\u0431\u043E\u0442\u0430\u044E \u0432 \u043F\u043E\u043B\u0438\u0446\u0438\u0438.
+    \u0417\u0430\u0449\u0438\u0442\u043D\u0438\u0446\u0430 \u0438 \u0438\u0441\u043F\u043E\u043B\u043D\u0438\u0442\u0435\u043B\u044C\u043D\u0438\u0446\u0430
+    \u0437\u0430\u043A\u043E\u043D\u0430. \u0412 \u043F\u043E\u0438\u0441\u043A\u0435
+    \u0441\u0435\u0440\u044C\u0435\u0437\u043D\u044B\u0445 \u043E\u0442\u043D\u043E\u0448\u0435\u043D\u0438\u0439."
+  _girlAge: 19
+  _girlHeight: 154
+  _girlPets: 0
+  _girlHairColor: 9
+  _girlEyeColor: 4
+  _girlHairLength: 2
+  _girlZodiacSign: 0

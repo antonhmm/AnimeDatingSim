@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e7fcab0f9b38f4aa4322ecf33a93a7, type: 3}
+  m_Name: JihikoSO
+  m_EditorClassIdentifier: 
+  _girlRank: 4
+  _girlPrice: 0
+  _girlIcon: {fileID: 21300000, guid: 906f49f889e55254b9ba8e42c18d6463, type: 3}
+  _girlName: "\u0414\u0437\u0438\u0445\u0438\u043A\u043E"
+  _girlEngName: Jihiko
+  _girlDescription: "\u041B\u044E\u0431\u043B\u044E \u0441\u0430\u0445\u0430\u0440\u043D\u0443\u044E
+    \u0432\u0430\u0442\u0443 \u0438 \u043A\u043E\u0444\u0435."
+  _girlAge: 27
+  _girlHeight: 160
+  _girlHairColor: 1
+  _girlEyeColor: 6
+  _girlZodiacSign: 8

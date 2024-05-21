@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e7fcab0f9b38f4aa4322ecf33a93a7, type: 3}
+  m_Name: YoiSO
+  m_EditorClassIdentifier: 
+  _girlRank: 3
+  _girlPrice: 0
+  _girlIcon: {fileID: 21300000, guid: 48a6f158813c75f4298de3b9748faa9d, type: 3}
+  _girlName: "\u0401\u0438"
+  _girlEngName: Yoi
+  _girlDescription: "\u0417\u0430\u043D\u0438\u043C\u0430\u044E\u0441\u044C \u0441\u0432\u043E\u0438\u043C
+    \u0434\u0435\u043B\u043E\u043C. \u0418\u0449\u0443 \u043D\u043E\u0432\u044B\u0435
+    \u0437\u043D\u0430\u043A\u043E\u043C\u0441\u0442\u0432\u0430."
+  _girlAge: 27
+  _girlHeight: 158
+  _girlHairColor: 1
+  _girlEyeColor: 4
+  _girlZodiacSign: 5

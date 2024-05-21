@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48e7fcab0f9b38f4aa4322ecf33a93a7, type: 3}
+  m_Name: KagamiSO
+  m_EditorClassIdentifier: 
+  _girlRank: 0
+  _girlPrice: 0
+  _girlIcon: {fileID: 21300000, guid: a076610bf347f26499b9e12746d152eb, type: 3}
+  _girlName: "\u041A\u0430\u0433\u0430\u043C\u0438"
+  _girlEngName: Kagami
+  _girlDescription: "\u041F\u0440\u0438\u0433\u043B\u0430\u0441\u0438 \u043C\u0435\u043D\u044F
+    \u0432\u044B\u043F\u0438\u0442\u044C \u043A\u043E\u0444\u0435... \u0438 \u043C\u043E\u0436\u0435\u0442
+    \u044F \u0441\u043E\u0433\u043B\u0430\u0448\u0443\u0441\u044C ;)"
+  _girlAge: 25
+  _girlHeight: 165
+  _girlPets: 0
+  _girlHairColor: 0
+  _girlEyeColor: 1
+  _girlHairLength: 0
+  _girlZodiacSign: 0
